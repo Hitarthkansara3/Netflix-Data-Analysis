@@ -19,11 +19,3 @@ The goal is to uncover insights such as genre distribution, release year trends,
 - **Matplotlib / Seaborn** (for data visualization)
 - **Jupyter Notebook** (for analysis and visualization)
 
----
-
-## 📊 Visualizations
-The notebook contains several visualizations, including:
-- Number of movies released over the years 📈
-- Popular genres distribution 🍿
-- Ratings and maturity levels 🔞
-- Country-wise content availability 🌍
